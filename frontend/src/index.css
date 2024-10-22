@@ -1,0 +1,69 @@
+.wrapper{
+  background-image: url("https://fxconsulting.in/wp-content/uploads/2018/09/home-slide-02.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:118%;
+  height:100vh;
+  /* align-items: center;
+  justify-content: center; */
+   display: flex;
+}
+
+.nav{
+  vertical-align: top;
+  width:118%;
+  
+}
+.back{
+  background-image: url("https://www.att.org.uk/sites/default/files/styles/desktop/public/2023-09/shutterstock_2008633238.jpg?itok=cU_Gjt7a") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:118%;
+  height:100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.bg{
+  background-image: url("https://media-exp1.licdn.com/dms/image/C511BAQH-DG5hjEVoJA/company-background_10000/0/1519797591016?e=2147483647&v=beta&t=bV6qpQ4JHnsKp9Z4YhkTic8jDMcZJP0It0RlH423rpc") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:118%;
+  height:100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  
+}
+.log,.sign{
+  background-color: rgba(255, 255, 255, 0.33);
+  box-shadow: 0px 8px 32px 0 rgba(0, 0, 255, 0.3);
+  backdrop-filter: blur(3px);
+  padding:18px 18px 18px 18px;
+  border-radius: 18px;
+}
+.user{
+  background-image: url("https://th.bing.com/th/id/OIP.qke5p-3wEpiSHgxAYaOvrwHaE8?w=304&h=180&c=7&r=0&o=5&pid=1.7") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:118%;
+  height:100vh;
+  /* align-items: center;
+  justify-content: center; */
+  display: flex;
+}
+.adminn{
+  background-image: url("https://u7.uidownload.com/vector/347/487/vector-blue-and-white-polygon-triangle-background-vector-illustration-ai-eps.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:118%;
+  height:100vh;
+  /* align-items: center;
+  justify-content: center; */
+  display: flex;
+}
